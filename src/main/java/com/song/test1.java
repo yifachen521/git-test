@@ -12,7 +12,6 @@ public class test1 {
         System.out.println("第一次提交到git");
 
 
-        System.out.println("第二次提交到git");
-        System.out.println("第三次提交到git");
+
     }
 }
